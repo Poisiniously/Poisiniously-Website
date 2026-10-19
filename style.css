@@ -4,7 +4,7 @@
   --text-color: #111111;
   --card-bg: #eeeeee;
   --accent-color: #7C3AED;
-  --border-color: #777777;
+  --border-color: #555555;
   --link-color: #23003a;
 }
 @media (prefers-color-scheme: dark) {
