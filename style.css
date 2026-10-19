@@ -2,6 +2,7 @@
   color-scheme: light dark;
   --bg-color: #dddddd;
   --text-color: #111111;
+  --header-bg: #d1d1d1;
   --card-bg: #eeeeee;
   --accent-color: #7C3AED;
   --border-color: #555555;
@@ -11,6 +12,7 @@
   :root {
     --bg-color: #16181C;
     --text-color: #eeeeee;
+    --header-bg: #111317;
     --card-bg: #1e1e1e;
     --link-color: #f7eaff;
   }
@@ -45,6 +47,7 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
+  background-color: var(header-bg);
   align-items: center;
   padding: 15px 2%;
   border-bottom: 1px solid var(--border-color);
