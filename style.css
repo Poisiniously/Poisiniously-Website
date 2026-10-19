@@ -30,8 +30,8 @@ body {
   padding: 10px;
   border: 2px solid var(--border-color);
   border-radius: 10px;
-  width: auto;
-  height: auto;
+  width: 0 auto;
+  height: 0 auto;
   margin: 10px;
 }
 
