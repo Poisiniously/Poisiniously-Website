@@ -26,7 +26,7 @@ body {
 .card {
   background-color: var(--card-bg);
   padding: 10px;
-  border: 1px solid var(--border-color);
+  border: 2px solid var(--border-color);
   border-radius: 10px;
   width: auto;
   height: auto;
@@ -100,7 +100,7 @@ body {
 }
 
 .socials {
-    border: 1px solid var(--border-color);
+    border: 2px solid var(--border-color);
     width: 300px;
     height: 60px;
     margin: 0 auto;
