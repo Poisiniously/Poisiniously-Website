@@ -112,6 +112,7 @@ body {
     justify-content: left;
     background-color: var(--card-bg);
     border-radius: 10px;
+    text-decoration: none;
 }
 
 #page-content {
