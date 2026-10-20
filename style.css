@@ -3,7 +3,7 @@
   --bg-color: #dddddd;
   --text-color: #111111;
   --header-bg: #d1d1d1;
-  --card-bg: #eeeeee;
+  --card-bg: #d1d1d1;
   --accent-color: #7C3AED;
   --border-color: #555555;
   --link-color: #23003a;
@@ -12,7 +12,7 @@
   :root {
     --bg-color: #16181C;
     --text-color: #eeeeee;
-    --header-bg: #111317;
+    --header-bg: #1e1e1e;
     --card-bg: #1e1e1e;
     --link-color: #f7eaff;
   }
