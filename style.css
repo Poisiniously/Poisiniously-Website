@@ -30,8 +30,8 @@ body {
   padding: 10px;
   border: 2px solid var(--border-color);
   border-radius: 10px;
-  width: 0 auto;
-  height: 0 auto;
+  width: auto;
+  height: auto;
   margin: 10px;
 }
 
@@ -92,7 +92,7 @@ body {
     padding: 20px 2%;
     border-top: 1px solid var(--border-color);
     color: var(--accent-color);
-    opacity: 0,8;
+    opacity: 0.8;
     font-family: 'Roboto Mono', monospace;
     font-size: 0.85rem;
 }
@@ -122,7 +122,7 @@ body {
 }
 
 .underline {
-    text-decoration: underlines;
+    text-decoration: underline;
 }
 
 .socials-list {
