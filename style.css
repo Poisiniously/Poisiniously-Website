@@ -104,7 +104,7 @@ body {
 
 .socials {
     border: 2px solid var(--border-color);
-    width: 300px;
+    width: min(300px, 90%);
     height: 60px;
     margin: 0 auto;
     display: flex;
